@@ -12,3 +12,5 @@ This IaC library includes:
 - **Bucket Notification**: Configuration to trigger an event when a new object is added to the S3 bucket.
 
 
+## Architecture
+![AWS S3 to SQS Notification Architecture] (https://github.com/IbrahimGHO/IaC-Library-/blob/main/Assests/S3-SQS.png)
