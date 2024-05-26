@@ -1,4 +1,4 @@
-# Single Architucter 
+# Single Server 
 
 1 VPC
 1 Subnet 
