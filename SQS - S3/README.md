@@ -13,4 +13,4 @@ This IaC library includes:
 
 
 ## Architecture
-![Picture Archi](https://raw.githubusercontent.com/IbrahimGHO/IaC-Library-/main/Assests/S3-SQS.png?token=GHSAT0AAAAAACRKVFVIDA24HQRVW2KS572SZSH6IKA)
+![Picture Archi](https://github.com/IbrahimGHO/IaC-Library/blob/3633354513a4cc9f30e9d27dbb214e7c3929f679/Assests/S3-SQS.png)
