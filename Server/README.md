@@ -6,3 +6,4 @@
 1 EC2 instance 
 
 
+![Picture Archi](Assests/SingleServer.png)
